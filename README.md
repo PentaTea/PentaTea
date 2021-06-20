@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true)
 
 ![PentaTea's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PentaTea&theme=vue&show_icons=true&count_private=true&layout=compact)
-
+<!-- 
 ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true)
+ -->
