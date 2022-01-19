@@ -54,19 +54,19 @@
 
 ## 技术能力
 
-> 1. 了解：使用过，懂得基本原理和大致开发流程，需要查 doc
-> 2. 熟悉：经常使用，缺乏沉淀
+> 1. 了解：偶尔使用，懂得基本原理和大致开发流程，需要查 doc
+> 2. 熟悉：经常使用，但缺乏沉淀
 > 3. 熟练掌握：大量使用，能够灵活地应用在开发中
 > 4. 精通：了解原理，动手重写过实现代码
 
 - __有扎实的前端基础__，熟练使用 HTML5,CSS3 进行页面布局，熟练使用预编译器如 Pug/Sass/Stylus, 熟练掌握 JavaScript 和 TypeScript 语言,熟练掌握 ES6, 关注 ESNext 新语法，熟悉 w3c 标准和 HTML 语义化
 - 熟练使用 Node.js 脱离浏览器环境进行开发，掌握 cjs, es6 的模块封装，转换和兼容，熟练使用和发布 npm 包，杜绝重复造轮子行为。
 - __熟练掌握前端常用工具和组件库__，如 Axios, Lodash, Echarts, Immer, Vant, ElementUI 等
-- __具备前端工程化能力__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，熟练掌握 Vue3 composition-api, 熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 Webpack, Vite 等打包工具进行脚手架搭建和配置，熟练掌握 webpack 的 plugin 和 loader 开发，并熟悉 rollup, esbuild, gulp 等构建工具，熟悉 jQuery, 了解 React 和 Snabbdom 框架，了解 Jest 和 Mocha 单元测试，了解 CI 并使用过 Github Action
-- __掌握前后端分离的开发模式__，熟练掌握 RESTful 和 GraphQL 接口风格进行数据请求，并搭建过跨端 GraphQL 的自动化开发工具链，也有开发对接 Serverless 云函数的经验
+- __具备前端工程化能力__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，熟练掌握 Vue3 composition-api, 熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 Webpack, Vite 等打包工具进行脚手架搭建和配置，熟练掌握 webpack 的 plugin 和 loader 开发，并熟悉 rollup, esbuild, gulp 等构建工具，熟悉 jQuery, 了解 React 和 Snabbdom 框架，熟练掌握 Jest 和 Mocha 单元测试，了解 CI 并使用过 Github Action
+- __掌握前后端分离的开发模式__，熟练掌握 RESTful 和 GraphQL 接口风格进行数据请求，并搭建过跨端 GraphQL 的自动化开发工具链，能够熟练掌握对接 Serverless 云函数
 - __具备跨平台的前端开发能力__，熟练掌握 Uniapp 和其安卓原生插件开发技术，实际设计主导开发过跨端项目（小程序 / H5 / 安卓 / IOS），熟练掌握 ColorUI,ThorUI 等组件库，有快速构建页面的能力。了解 Swift iOS 开发和 Java Android 开发，熟悉 Electron 框架，了解 Flutter 框架
 - 掌握浏览器兼容技术，掌握前端性能优化设计
-- __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，了解 SQL 语言并使用过 MySQL 和 MongoDB 数据库
+- __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，熟练掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，了解 SQL 语言并使用过 MySQL 和 MongoDB 数据库
 - __掌握计算机基础技能__，掌握基本的数据结构和算法知识，熟练使用正则匹配，了解密码学相关知识
 - __对代码质量与设计不懈追求__，熟练掌握设计模式，会灵活运用。懂得代码设计的重要性，遵守代码规范。熟练使用 eslint, prettier, lint-staged 等工具进行代码质量检查，掌握 OOP 和 FP 的思想，熟练使用 RxJS 进行流操作
 - __具备团队协作能力__，熟练掌握 Git 版本管理，懂得存储，二分查找，变基，分离头指针等高级操作，懂得并可以制订团队分支开发规范和 commit 提交规范，掌握基础 UML 图表
