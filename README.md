@@ -70,11 +70,11 @@
 - __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，熟练掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，了解 SQL 语言并使用过 MySQL 和 MongoDB 数据库
 - __掌握计算机基础技能__，掌握基本的数据结构和算法知识，熟练使用正则匹配，了解密码学相关知识
 - __对代码质量与设计不懈追求__，熟练掌握设计模式，会灵活运用。懂得代码设计的重要性，遵守代码规范。熟练使用 eslint, prettier, lint-staged 等工具进行代码质量检查，掌握 OOP 和 FP 的思想，熟练使用 RxJS 进行流操作
-- __具备团队协作能力__，熟练掌握 Git 版本管理，懂得存储，二分查找，变基，分离头指针等高级操作，懂得并可以制订团队分支开发规范和 commit 提交规范，掌握基础 UML 图表
+- __具备团队协作能力__，熟练掌握 Git 版本管理，懂得 stash, bisect, rebase, detached HEAD 等高级操作，懂得并可以制订团队分支开发规范和 commit 提交规范，掌握 UML 图表
 - __具备基础的产品设计能力__，能熟练使用 Adobe XD 进行原型设计，熟练掌握 PS, Procreate, Shapr3D 等软件进行草图绘制，熟悉 Blender, keyShot 等软件进行产品建模和渲染
 - __有非 web 开发经验__，熟练掌握 C, C++, Swift 语言以及 PCB 设计和嵌入式开发，熟悉 Python 并开发过简单的爬虫，了解 Java, Go 语言
 - __掌握基本的服务器运维技能__，熟悉 Linux/Unix 的基本操作和开发环境，了解 docker, pm2, NGINX, Caddy 等工具的使用
-- 日常开发使用 MacOS, 编辑器使用 VSCode 或 Vim 
+- 日常开发使用 MacOS, 编辑器使用 VSCode 或 Vim
 
 ## 自我评价
 
