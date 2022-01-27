@@ -63,7 +63,7 @@
 - __有扎实的前端基础__，熟练使用 HTML5,CSS3 进行页面布局，熟练使用预编译器如 Pug/Sass/Stylus, 熟练掌握 JavaScript 和 TypeScript 语言,熟练掌握 ES6, 关注 ESNext 新语法，熟悉 w3c 标准和 HTML 语义化
 - __具备前端工程化能力__，熟练使用 Node.js 脱离浏览器环境进行开发，掌握 cjs, es6 的模块封装，转换和兼容，熟练使用和发布 npm 包，熟练使用 npm, yarn, pnpm 进行依赖管理，掌握 monorepo 策略和开发流程
 - __熟练掌握前端常用工具和组件库__，如 Axios, Lodash, Echarts, Immer, Vant, ElementUI 等
-- __拥有前端架构能力__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，熟练掌握 Vue3 composition-api, 熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 Webpack, Vite 等打包工具进行脚手架搭建和配置，熟练掌握 webpack 的 plugin 和 loader 开发，并熟悉 rollup, esbuild, gulp 等构建工具，熟悉 jQuery, 了解 React 和 Snabbdom 框架，熟练掌握 Jest, Mocha 测试框架和 chai, power-assert 等断言库进行单元测试，熟悉 CI 流程并使用过 Github Action
+- __拥有前端架构能力__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，熟练掌握 Vue3 composition-api, 熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 Webpack, Vite 脚手架搭建和 plugin 开发，并熟悉 rollup, esbuild, gulp 等构建工具，熟悉 jQuery, 了解 React 和 Snabbdom 框架，熟练掌握 Jest, Mocha 测试框架和 chai, power-assert 等断言库进行单元测试，熟悉 CI 流程并使用过 Github Action
 - __掌握前后端分离的开发模式__，熟练掌握 RESTful 和 GraphQL 接口风格进行数据请求，并搭建过跨端 GraphQL 的自动化开发工具链，能够熟练掌握对接 Serverless 云函数
 - __具备跨平台的前端开发能力__，熟练掌握 Uniapp 和原生插件开发技术，熟练掌握跨端产品全流程解决方案，熟练掌握 ColorUI, ThorUI, UView 等组件库，有快速构建页面的能力。了解 Swift iOS 开发和 Java Android 开发，熟悉 Electron 框架，了解 Flutter 框架
 - 掌握浏览器兼容技术，掌握前端性能优化设计
