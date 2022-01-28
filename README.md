@@ -1,3 +1,17 @@
+### Hi there 👋
+
+- 見字如晤
+- 我是 PentaTea, 很高兴认识你
+- 现役社畜, 赚钱贼少的前端leader (所以迟早跑路
+- 梦想成为一名自给自足的本子画师 (迟早你们都会对着我的作品冲
+- 咳,上面开个玩笑
+- 现居山东济南, 欢迎大家来找我玩♂
+- 你可以通过下面的内容来进一步了解我
+- (交个朋友吧,反正不要钱
+
+<details>
+<summary>我的简历</summary><br>
+
 # 个人简历 - 张家平
 
 - 张家平 / 男 / 2001
@@ -96,6 +110,9 @@
 ## 致谢
 
 - 感谢您花时间阅读我的简历，期待能有机会和您共事。
+  
+<br></details>
+
 
 ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true)
 ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true)
