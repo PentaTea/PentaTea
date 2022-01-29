@@ -3,7 +3,7 @@
 - 見字如晤
 - 我是 PentaTea, 很高兴认识你
 - 现役社畜, 赚钱贼少的前端leader (所以迟早跑路
-- 梦想成为一名自给自足的本子画师 (迟早你们都会对着我的作品冲
+- 梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲
 - 咳,上面开个玩笑
 - 现居山东济南, 欢迎大家来找我玩♂
 - 你可以通过下面的内容来进一步了解我
@@ -115,4 +115,5 @@
 
 
 ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true)
+
 ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true)
