@@ -6,7 +6,7 @@
 - 梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲
 - 咳,上面开个玩笑
 - 现居山东济南, 欢迎大家来找我玩♂
-- 你可以通过下面的内容来进一步了解我
+- 你可以通过下面的内容进一步了解我
 - (交个朋友吧,反正不要钱
 
 <details>
@@ -112,6 +112,8 @@
 - 感谢您花时间阅读我的简历，期待能有机会和您共事。
   
 <br></details>
+
+<br>
 
 
 ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true)
