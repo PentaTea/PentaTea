@@ -116,6 +116,6 @@
 <br>
 
 
-![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true)
+<!-- ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
 
-![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true)
+<!-- ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
