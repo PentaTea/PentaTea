@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 - 見字如晤
 - 我是 PentaTea, 很高兴认识你
@@ -8,9 +8,22 @@
 - 现居山东济南, 欢迎大家来找我玩♂
 - 你可以通过下面的内容进一步了解我
 - (交个朋友吧,反正不要钱
-
+ -->
+<h3 align="center">
+Hi there 👋
+</h3>
+<p align="center">見字如晤</p>
+<p align="center">我是 PentaTea, 很高兴认识你</p>
+<p align="center">现役社畜, 赚钱贼少的前端 leader (所以迟早跑路</p>
+<p align="center">梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲</p>
+<p align="center">咳, 上面开个玩笑</p>
+<p align="center">现居山东济南, 欢迎大家来找我玩♂</p>
+<p align="center">你可以通过下面的内容进一步了解我</p>
+<p align="center">( 交个朋友吧, 反正不要钱</p>
+<h1></h1>
+<br>
 <details>
-<summary>我的简历</summary><br>
+<summary align="center"><b>我的简历</b></summary><br>
 
 # 个人简历 - 张家平
 
