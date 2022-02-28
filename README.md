@@ -14,7 +14,7 @@
 <details>
 <summary align="center"><b>我的简历</b></summary><br>
 
-# 个人简历 - 张家平
+# 个人简历 - 张家平 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" align="right" height="41">
 
 - 张家平 / 男 / 2001
 - 本科主动退学 / 福建工程学院 物联网工程 2019 年入学
@@ -61,7 +61,7 @@
 
 ### 其他
 
-- 且论：对标知乎的问答平台
+- `创业` 且论：对标知乎的问答平台
 - 基于 nodeJS 的 qq 机器人
 - vuepress 音乐插件
 - vscode 的 picGo 本地保存插件
