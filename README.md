@@ -1,6 +1,6 @@
-<h3 align="center">
-Hi there 👋
-</h3>
+<br>
+<h3 align="center">Hi there 👋</h3>
+<br>
 <p align="center">見字如晤</p>
 <p align="center">我是 PentaTea, 很高兴认识你</p>
 <p align="center">现役社畜, 赚钱贼少的前端 leader (所以迟早跑路</p>
