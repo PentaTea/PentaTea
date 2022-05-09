@@ -33,7 +33,7 @@
   
 ### `全职` 北京字节跳动科技有限公司 ── 高级前端开发工程师 - 飞书（ 2022/05 至今 ）
 
-待续...
+WIP...
 
 
 ### `全职` 山东旭兴网络科技有限公司 ── 前端开发工程师（ 2021/06 ~ 2022/04 ）
@@ -145,3 +145,7 @@ repo: https://github.com/4chao/preset
 <!-- ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
 
 <!-- ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
+<details>
+<summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
+<div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
+</details>
