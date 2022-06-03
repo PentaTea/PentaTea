@@ -101,16 +101,15 @@ repo: https://github.com/4chao/preset
 
 - __有扎实的前端基础__，熟练使用 HTML5,CSS3 进行页面布局，熟练使用预编译器如 Pug/Sass/Stylus, 熟练掌握 JavaScript 和 TypeScript 语言，熟练掌握 ES6, 关注 ESNext 新语法，熟悉 w3c 标准和 HTML 语义化
 - __具备前端工程化能力__，熟练使用 Node.js 脱离浏览器环境进行开发，掌握 cjs, es6 的模块封装，转换和兼容，熟练使用和发布 npm 包，熟练使用 npm, yarn, pnpm 进行依赖管理，掌握 monorepo 策略和开发流程
-- __熟练掌握前端常用工具和组件库__，如 Axios, Lodash, Echarts, ElementUI, Unocss 等
-- __前端技术栈较深__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，精通 Vue3 composition-api 设计，熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 React, jQuery, snabbdom 等框架，熟练掌握 Webpack, Vite 及其 plugin 开发，熟悉 rollup, esbuild, gulp 等构建工具
-- __拥有架构设计能力__，经常进行团队、项目适用的脚手架搭建，CI/CD, 版本管理和发布的流程设计。有容灾，埋点，监控，优化，中台与组件库等大型项目架构的建设经验，熟练掌握 Jest, Mocha 等单元测试框架
+- __掌握前端常用工具和组件库__，如 Axios, Lodash, Echarts, ElementUI, Unocss 等
+- __拥有较深的前端技术栈__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，精通 Vue3 composition-api 设计，熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 React, jQuery, snabbdom 等框架，熟练掌握 Webpack, Vite 及其 plugin 开发，熟悉 rollup, esbuild, gulp 等构建工具
 - __掌握前后端分离的开发模式__，熟练掌握 RESTful 和 GraphQL 接口风格进行数据请求，并搭建过跨端 GraphQL 的自动化开发工具链，能够熟练掌握对接 Serverless 云函数
-- __具备跨平台的前端开发能力__，熟练掌握 Uniapp 和原生插件开发技术，熟练掌握跨端产品全流程解决方案，熟练掌握 ColorUI, ThorUI, uView 等组件库，有快速构建页面的能力。了解 Swift iOS 开发和 Java Android 开发，熟练掌握 Electron 框架，了解 Flutter 框架
-- 掌握浏览器兼容技术，掌握前端性能优化设计
+- __具备跨平台的前端开发能力__，精通 Uniapp 并掌握其原生插件开发技术，熟练掌握跨端产品全流程解决方案。了解 Swift iOS 开发和 Java Android 开发，熟练掌握 Electron 框架，了解 Flutter 框架
+- __拥有前端架构设计能力__，经常进行团队、项目适用的脚手架搭建，CI/CD, 版本管理和发布的流程设计。有容灾，埋点，监控，优化，中台与组件库搭建等大型项目架构的建设经验，熟练掌握 Jest, Mocha 等单元测试框架
 - __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，熟练掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，熟悉 SQL 语言并使用过 MySQL 和 MongoDB 数据库
 - __掌握计算机基础技能__，掌握基本的数据结构和算法知识，熟练使用正则匹配，了解密码学相关知识
 - __追求代码质量与设计__，熟练掌握和灵活运用设计模式。懂得代码设计的重要性，遵守代码规范。熟练使用 eslint, prettier 等工具进行代码质量检查，主导团队代码规范，掌握 OOP 和 FP 的思想，熟练使用 RxJS 进行流操作
-- __具备团队协作能力__，熟练掌握 Git 版本管理，懂得 stash, bisect, rebase, detached HEAD 等高级操作，懂得并可以制订团队分支开发规范，能够通过 husky, commitlint, lint-staged 等工具进行提交规范，掌握 UML 图表
+- __具备团队协作能力__，熟练掌握 Git 版本管理，熟练适用 bisect, rebase, detached HEAD, cherry-pick 等高级操作，经常制订团队分支开发规范，通过 husky, commitlint, lint-staged 等工具进行提交规范，掌握 UML 图表
 - __具备产品设计能力__，熟练掌握 Figma, Adobe XD 进行原型和 UI 设计，熟练掌握 PS, Procreate, Shapr3D 等软件进行草图绘制，熟悉 Blender, fusion 360, keyShot 等软件进行产品建模，3D打印和渲染
 - __有非 web 开发能力__，熟练掌握 C, C++, Rust 语言以及 PCB 设计和单片机嵌入式开发，熟悉 Swift, Python 并开发过爬虫，了解 Java, Go 语言
 - __掌握服务器运维技能__，熟悉 Linux/Unix 的基本操作和开发环境，了解 docker, pm2, NGINX, Caddy 等工具的使用
