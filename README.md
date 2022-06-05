@@ -136,13 +136,11 @@ repo: https://github.com/4chao/preset
 - 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 <br></details>
-
-<br>
-
-
-<!-- ![PentaTea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
-
-<!-- ![PentaTea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PentaTea&theme=vue&show_icons=true&count_private=true) -->
+<details>
+<summary align="center"><b>《内 推 找 我》</b></summary><br>
+<div align="center">字节校招: https://jobs.toutiao.com/s/YJxHLjj 内推码: R3GDCJV</div>
+<div align="center">字节社招: 欢迎带着简历来qq或微信, 联系方式见上方简历</div>
+</details>
 <details>
 <summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
 <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
