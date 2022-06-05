@@ -4,7 +4,7 @@
 <p align="center">見字如晤</p>
 <p align="center">我是 PentaTea, 很高兴认识你</p>
 <p align="center">已经跑路, 刚进大厂, 弱冠之年, 资深社畜</p>
-<p align="center">学的挺杂, 移动桌面嵌入前后端和摸螃蟹🦀都有涉及</p>
+<p align="center">学的挺杂, 移动桌面嵌入前后端和摸螃蟹🦀都有涉猎</p>
 <p align="center">梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲</p>
 <p align="center">开个玩笑</p>
 <p align="center">现居山东济南, 欢迎大家来找我玩♂</p>
