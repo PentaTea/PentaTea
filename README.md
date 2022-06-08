@@ -138,8 +138,9 @@ repo: https://github.com/4chao/preset
 <br></details>
 <details>
 <summary align="center"><b>《内 推 找 我》</b></summary><br>
+<div align="center"><b>和优秀的人，做有挑战的事</b></div>
 <div align="center">字节校招: https://jobs.toutiao.com/s/YJxHLjj 内推码: R3GDCJV</div>
-<div align="center">字节社招: 欢迎带着简历来qq或微信, 联系方式见上方简历</div>
+<div align="center">字节社招: 欢迎带着简历来找我, 联系方式见上方简历</div>
 </details>
 <details>
 <summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
