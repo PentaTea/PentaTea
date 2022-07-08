@@ -20,7 +20,7 @@
 - 张家平 / 男 / 2001
 - 本科主动退学 / 福建工程学院 物联网工程 2019 年入学
 - Github：[https://github.com/PentaTea](https://github.com/PentaTea)
-- 现居济南 / 接受其他城市
+- 现居北京 / 接受其他城市
 - 期望职位：高级 web 前端开发工程师 / 全栈工程师
 
 ## 联系方式
