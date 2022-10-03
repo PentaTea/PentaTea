@@ -15,13 +15,13 @@
 <details>
 <summary align="center"><b>我的简历</b></summary><br>
 
-# 个人简历 - 张家平 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" align="right" height="41">
+# 个人简历 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="" align="right" height="41"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" align="right" height="41">
 
-- 张家平 / 男 / 2001
+- 五茶 / 男 / 2001
 - 本科主动退学 / 福建工程学院 物联网工程 2019 年入学
 - Github：[https://github.com/PentaTea](https://github.com/PentaTea)
 - 现居北京 / 接受其他城市
-- 期望职位：高级 web 前端开发工程师 / 全栈工程师
+- 期望职位：前端开发工程师 / 全栈工程师 / 产品总监
 
 ## 联系方式
 
@@ -35,14 +35,13 @@
 
 WIP...
 
-
 ### `全职` 山东旭兴网络科技有限公司 ── 前端开发工程师 (2021/06 - 2022/04)
 
-1. 负责济南分公司所有 web 前端和 uniapp 的基础架构设计，从0主导前端架构100% TS 化
-2. 维护开发和组织管理公司后台，大屏，小程序，桌面端现有项目，保证预期交付
-3. 负责新技术的研究，负责复杂需求技术难点的攻关
-4. 负责进行前端技术培训并分享演讲，提高部门整体技术水平
-5. 从0构建前端开发规范文档，[前端工具库和组件库](https://document.sdxxtop.com/packages/01.UniList.html)
+1. 负责济南分公司所有 web 前端和 uniapp 的基础架构设计，从 0 主导前端架构 100% TS 化
+2. 维护开发和组织管理公司后台，大屏，小程序，桌面端现有项目，0 delay 超预期保证交付质量和效率
+3. 负责新技术的研究，负责复杂需求技术难点的攻关，负责提升现有架构稳定性
+4. 负责进行前端技术培训并组织分享，提高部门整体技术水平和知识储备，帮助新人顺利 Landing
+5. 从 0 编写公司级别前端开发规范文档，[前端组件库和文档](https://document.sdxxtop.com/packages/01.UniList.html)
 
 ### `实习` 深圳大疆创新科技有限公司 ── robomaster 嵌入式开发 (2019/07 - 2019/08) (2019/01 - 2019/02)
 
@@ -58,8 +57,8 @@ WIP...
 框架选型：vite, vue3, TypeScript
 
 高光成就：
-- 作为前端负责人带领团队超预期 0delay 完成验收
-- 搭建所有平台的代码架构和开发流程，后台页面代码量缩减到以往的10%
+- 作为前端负责人带领团队超预期高质量完成验收
+- 搭建全平台代码架构和开发流程，后台页面代码量缩减到以往的 10%
   
 ### `创业` 思潮：直播创作开源协作平台
 
@@ -106,10 +105,10 @@ repo: https://github.com/4chao/preset
 - __具备前端工程化能力__，熟练使用 Node.js 脱离浏览器环境进行开发，掌握 cjs, es6 的模块封装，转换和兼容，熟练使用和发布 npm 包，熟练使用 npm, yarn, pnpm 进行依赖管理，掌握 monorepo 策略和开发流程
 - __拥有较深的前端技术栈__，__精通 Vue__, 读过 Vue 源码，懂得 vdom 设计 / 解释 / 渲染原理，精通 Vue3 composition-api 设计和理念，熟练掌握 Vuex, Vue-Router, VueUse 等 Vue 系开发工具，熟练掌握 React, jQuery, snabbdom 等框架，熟练掌握 Webpack, Vite 及其 plugin 开发，熟悉 rollup, esbuild, gulp 等构建工具，熟练掌握 Jest, Mocha 等单元测试框架
 - __掌握前后端分离的开发模式__，熟练掌握 RESTful 和 GraphQL 接口风格进行数据请求，并搭建过跨端 GraphQL 的自动化开发工具链，能够熟练掌握对接 Serverless 云函数
-- __具备跨平台的前端开发能力__，精通 Uniapp 并掌握其原生插件开发技术，熟练掌握跨端产品全流程解决方案。了解 Swift iOS 开发和 Java Android 开发，熟练掌握 Electron 框架，了解 Flutter 框架
+- __具备跨平台的前端开发能力__，精通 uniapp 并掌握其原生插件开发技术，熟练掌握跨端产品全流程解决方案。了解 Swift iOS 开发和 Java Android 开发，熟练掌握 Electron 框架，了解 Flutter 框架
 - __拥有前端产品级架构设计能力__，经常进行团队、项目适用的脚手架搭建，CI/CD, 版本管理和发布的流程设计。有容灾，埋点，监控，兼容，优化，中台与组件库等大型项目架构的建设经验
 - __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，熟练掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，熟悉 SQL 语言并使用过 MySQL 和 MongoDB 数据库
-- __掌握计算机基础技能__，掌握基本的数据结构和算法知识，熟练使用正则匹配，了解密码学相关知识
+- __掌握计算机基础技能__，掌握数据结构和算法知识，熟练编写正则匹配，熟悉密码学相关知识
 - __追求代码质量与设计__，熟练掌握和灵活运用设计模式。懂得代码设计的重要性，遵守代码规范。熟练使用 eslint, prettier 等工具进行代码质量检查，主导团队代码规范，掌握 OOP 和 FP 的思想，熟练使用 RxJS 进行流操作
 - __具备团队协作能力__，熟练掌握 Git 版本管理，熟练适用 bisect, rebase, detached HEAD, cherry-pick 等高级操作，经常制订团队分支开发规范，通过 husky, commitlint, lint-staged 等工具进行提交规范，掌握 UML 图表
 - __具备产品设计能力__，熟练掌握 Figma, Adobe XD 进行原型和 UX 设计，熟练掌握 PS, Procreate, Shapr3D 等软件进行草图绘制，熟悉 Blender, fusion 360, keyShot 等软件进行产品建模，3D打印和渲染
@@ -129,7 +128,7 @@ repo: https://github.com/4chao/preset
 
 ## 附：主动退学原因
 
-本人看中专业优势，2019 年入学福建工程学院物联网专业。但由于物联网是学校新开专业，教学水平相对较弱。本人当时已经有实习和接单的经验和编程基础，去向学校申请相关课程的免修，学校以"没有先例"为由拒绝。再加上班级没有什么学习氛围，本人不想浪费时间，经父母同意后主动休学。
+本人看中专业优势，2019 年入学福建工程学院物联网专业。但由于物联网是学校新开专业，教学水平相对较弱。本人当时已经有实习和接单的经验，去向学校申请相关课程的免修，学校以"没有先例"为由拒绝。再加上班级没有什么学习氛围，本人不想浪费时间，经父母同意后主动休学。
 
 休学两年内本人有过自由职业，创业和就业经历，入职旭兴网络科技有限公司后休学期限到期，主动办理退学。
 
