@@ -108,7 +108,7 @@ repo: https://github.com/4chao/preset
 - __具备跨平台的前端开发能力__，精通 uniapp 并掌握其原生插件开发技术，熟练掌握跨端产品全流程解决方案。了解 Swift iOS 开发和 Java Android 开发，熟练掌握 Electron 框架，了解 Flutter 框架
 - __拥有前端产品级架构设计能力__，经常进行团队、项目适用的脚手架搭建，CI/CD, 版本管理和发布的流程设计。有容灾，埋点，监控，兼容，优化，中台与组件库等大型项目架构的建设经验
 - __具备后端开发能力__，熟练掌握 UniCloud 进行 Serverless 开发，熟练掌握云函数，云数据库，JQL 等技术。了解使用过 NestJS, Java Spring, Python Bottle 框架，熟悉 SQL 语言并使用过 MySQL 和 MongoDB 数据库
-- __掌握计算机基础技能__，掌握数据结构和算法知识，熟练编写正则匹配，熟悉密码学相关知识
+- __掌握计算机基础技能__，掌握数据结构和算法知识，精通正则，熟悉密码学相关知识
 - __追求代码质量与设计__，熟练掌握和灵活运用设计模式。懂得代码设计的重要性，遵守代码规范。熟练使用 eslint, prettier 等工具进行代码质量检查，主导团队代码规范，掌握 OOP 和 FP 的思想，熟练使用 RxJS 进行流操作
 - __具备团队协作能力__，熟练掌握 Git 版本管理，熟练适用 bisect, rebase, detached HEAD, cherry-pick 等高级操作，经常制订团队分支开发规范，通过 husky, commitlint, lint-staged 等工具进行提交规范，掌握 UML 图表
 - __具备产品设计能力__，熟练掌握 Figma, Adobe XD 进行原型和 UX 设计，熟练掌握 PS, Procreate, Shapr3D 等软件进行草图绘制，熟悉 Blender, fusion 360, keyShot 等软件进行产品建模，3D打印和渲染
