@@ -149,3 +149,5 @@ repo: https://github.com/4chao/preset
 <summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
 <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
 </details>
+
+![img_v2_57bc2ddd-503f-4f89-b43c-d5b0f061894g](https://github.com/PentaTea/PentaTea/assets/26431026/c23f5108-c4e8-4485-aea4-8361f5f42bdf)
