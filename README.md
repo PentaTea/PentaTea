@@ -8,8 +8,7 @@
 <p align="center">滑雪 | 潜水 | 射箭 | 乒乓 | 旅游 | 陶艺 | 骑马 | 滑板 | 跳伞 | 冲浪</p>
 <p align="center">梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲</p>
 <p align="center">开个玩笑</p>
-<p align="center">现居 <del>知春路</del> 学知园, 欢迎大家来找我玩♂</p>
-<p align="center">(呜呜呜海淀没有夜生活)</p>
+<p align="center">现居 <del>知春路</del> <del>学知园</del> 杨浦! 欢迎大家来找我玩♂</p>
 <p align="center">你可以通过下面的内容进一步了解我</p>
 <p align="center"><i>交个朋友吧, 反正不要钱</i></p>
 <h1></h1>
