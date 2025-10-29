@@ -103,11 +103,13 @@ __快速了解:__
 - 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 <br></details>
+<h3>　</h3>
 <details>
 <summary align="center"><b>《内 推 找 我》</b></summary><br>
 <div align="center"><b>和优秀的人，做有挑战的事</b></div>
 <div align="center"><b>(虽然被裁了, 但是我还有很多好同事, 内推快来找我!!!)</b></div>
 </details>
+<h3>　</h3>
 <details>
 <summary align="center"><b>"又偷看人家主页,直接点关注啊"</b></summary><br>
 <div align="center"><img src="https://user-images.githubusercontent.com/26431026/167385898-1fecf0ad-8560-4e31-bcf1-5df5ba2842f1.png"></div>
