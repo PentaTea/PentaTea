@@ -3,7 +3,7 @@
 <br>
 <p align="center">見字如晤</p>
 <p align="center">我是 PentaTea, 很高兴认识你</p>
-<p align="center"><del>已经跑路, 刚进大厂, 弱冠之年, 资深社畜</del> 被裁了兄弟们呜呜</p>
+<p align="center"><del>已经跑路, 刚进大厂, 弱冠之年, 资深社畜</del> <del>被裁了兄弟们呜呜</del> 找到工作了嘻嘻</p>
 <p align="center">学的挺杂, 移动桌面嵌入前后端和摸螃蟹🦀都有涉猎</p>
 <p align="center">滑雪 | 潜水 | 冲浪 | 射箭 | 攀岩 | 骑马 | 滑板 | 跳伞 </p>
 <p align="center">梦想成为一名自给自足的本子画师 (迟早有一天你们都会对着我画的涩图冲) <sup>开个玩笑</sup></p>
